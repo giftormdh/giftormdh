@@ -1,6 +1,6 @@
 - 👋 Hello, I’m Gifto Ramadha
 - 🏫 I’m currently studying on Information Engineering at Gadjah Mada University
-- 🌱 I’m currently learning C++ and phyton language
+- 🌱 I’m currently learning C++, phyton, HTML and CSS
 - 💞️ I’m looking to collaborate on anything that can improve my skills and experience
 - 📫 you can contact me via email giftoramadha@gmail.com
 - 📷 also you can follow me on instagram @giftormdh_
