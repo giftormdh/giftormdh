@@ -1,4 +1,4 @@
-- 👋 Hello, I’m @giftormdh
+- 👋 Hello, I’m Gifto Ramadha
 - 🏫 I’m currently studying on Information Engineering at Gadjah Mada University
 - 🌱 I’m currently learning C++ and phyton language
 - 💞️ I’m looking to collaborate on anything that can improve my skills and experience
